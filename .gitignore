@@ -1,0 +1,15 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+app/build
+app/bin
+
+# Test outputs
+test_report.html
+natt-logs/
+pid-list.txt
+
+# OS files
+.DS_Store
